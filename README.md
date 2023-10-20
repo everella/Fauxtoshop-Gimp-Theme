@@ -5,7 +5,8 @@ Adoughbe Fauxtoshop, a Gimp (GNU Image Manipulation Program) skin that mimics ho
 
 # Features
 
-- Overhauled GUI; Thin toolbox panel, thick dock tabs, Segoe UI (system font), Adobe dark color scheme, additional accent colors, & much more
+- Overhauled GUI; Thin toolbox panel, thick dock tabs, Segoe UI (system font), Adobe dark color scheme, additional accent colors
+- Dark Adobe #161616 canvas padding color
 - Faithful recreation of most Adobe Photoshop tool icons
 - Nearly all of Adobe Photoshop's keyboard shortcuts
 - Adobe themed splash screen & Gimp icon
@@ -21,3 +22,7 @@ Here's what Fauxtoshop looks like:
 Adobe themed splash screen:
 
 ![Screenshot showing the Fauxtoshop splash screen](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/7fbcc356-5f1c-4f3e-8248-b6c5f08960a3)
+
+Sticky-note like tool-tips
+
+![tooltip](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/914d9cb4-1c38-4219-8987-decf23fcfd67)
