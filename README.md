@@ -5,7 +5,7 @@ Adoughbe Fauxtoshop, a Gimp (GNU Image Manipulation Program) skin that mimics ho
 
 # Features
 
-- Overhauled GUI; Thin toolbox panel, thick dock tabs, Segoe UI (system font), Adobe dark color scheme, additional accent colors
+- Overhauled GUI; Thin toolbox panel, thick dock tabs, Segoe UI (system font), Adobe dark color scheme, additional accent colors, etc
 
 - Dark Adobe #161616 canvas padding color
   
@@ -15,9 +15,9 @@ Adoughbe Fauxtoshop, a Gimp (GNU Image Manipulation Program) skin that mimics ho
   
 - Adobe themed splash screen & Gimp icon
   
-- Extra quality-of-life keyboard shortcuts that enhance the user experience (e.g pressing delete -> deletes whole layer instead of clearing layer)
+- Extra quality-of-life keyboard shortcuts that enhance the user experience (e.g. pressing delete -> deletes whole layer instead of clearing layer)
   
-- Adobe Photoshop themed tool-tips
+- Adobe Photoshop themed tool-tips (sticky-note tool-tips)
 
 # Demo
 
