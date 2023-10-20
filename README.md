@@ -19,7 +19,7 @@ Adoughbe Fauxtoshop, a Gimp 2.10+ (GNU Image Manipulation Program) skin that mim
   
 - Adobe Photoshop themed tool-tips (sticky-note tool-tips)
 
-- Bundled with the Resynthesizer Plugin (akin to content-aware)
+- Bundled with the Resynthesizer Plugin (akin to content-aware) and G'MIC (advanced image processing)
 
 # Demo
 
@@ -39,8 +39,16 @@ and much more...
 
 # Installing Fauxtoshop (Windows)
 
-- Visit the releases page and download the .zip archive Fauxtoshop.zip
+1. Download the latest stable release of Gimp [here](https://www.gimp.org/downloads/)
 
-- Access the path 
+2. Visit the releases page here on github and download the .zip archive Fauxtoshop.zip
+
+3. Extract the contents of the archive
+
+4. Access the path to your Gimp 2.10x AppData Roaming folder; e.g. C:\Users\YOURUSERNAME\AppData\Roaming\GIMP\2.10
+
+5. Drag the Fauxtoshop's Gimp 2.10 folder into your Gimp 2.10x AppData Roaming folder.
+
+6. Profit
 
 
