@@ -39,9 +39,9 @@ and much more...
 
 # Installing Fauxtoshop (Windows)
 
-1. Download the latest stable release of Gimp [here](https://www.gimp.org/downloads/)
+1. Download and install the latest stable release of Gimp [here](https://www.gimp.org/downloads/) (as of writing, 2.10.34)
 
-2. Visit the releases page here on github and download the .zip archive Fauxtoshop.zip
+2. Visit the [releases](https://github.com/everella/Fauxtoshop-Gimp-Theme/tags) page here on github and download the .zip archive Fauxtoshop.zip
 
 3. Extract the contents of the archive
 
