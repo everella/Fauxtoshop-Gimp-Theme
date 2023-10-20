@@ -1,7 +1,7 @@
 # Fauxtoshop
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V1PJ9QW)
 
-Adoughbe Fauxtoshop, a Gimp (GNU Image Manipulation Program) skin that mimics how Adobe Photoshop looks and operates.
+Adoughbe Fauxtoshop, a Gimp 2.10+ (GNU Image Manipulation Program) skin that mimics how Adobe Photoshop looks and operates.
 
 # Features
 
@@ -19,6 +19,8 @@ Adoughbe Fauxtoshop, a Gimp (GNU Image Manipulation Program) skin that mimics ho
   
 - Adobe Photoshop themed tool-tips (sticky-note tool-tips)
 
+- Bundled with the Resynthesizer Plugin (akin to content-aware)
+
 # Demo
 
 Here's what Fauxtoshop looks like:
@@ -32,3 +34,13 @@ Adobe themed splash screen:
 Sticky-note like tool-tips
 
 ![tooltip](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/914d9cb4-1c38-4219-8987-decf23fcfd67)
+
+and much more...
+
+# Installing Fauxtoshop (Windows)
+
+- Visit the releases page and download the .zip archive Fauxtoshop.zip
+
+- Access the path 
+
+
