@@ -10,6 +10,7 @@ Adoughbe Fauxtoshop, a Gimp (GNU Image Manipulation Program) skin that mimics ho
 - Nearly all of Adobe Photoshop's keyboard shortcuts
 - Adobe themed splash screen & Gimp icon
 - Extra quality-of-life keyboard shortcuts that enhance the user experience (e.g pressing delete -> deletes whole layer instead of clearing layer)
+- Adobe Photoshop themed tool-tips
 
 # Demo
 
