@@ -52,7 +52,7 @@ and much more...
    - Typically located in ```C:\Users\YourUsernameHere\AppData\Roaming\GIMP\```
   
 6. Drag and drop the Fauxtoshop ```2.10``` folder into your Gimp's AppData Roaming folder, and replace the files in the destination.
-     - The goal here is to replace your original Gimp 2.10 folder with the Fauxtoshop 2.10 folder, which will convert the default Gimp layout to the Fauxtoshop one.
+   - The goal here is to replace your original Gimp 2.10 folder with the Fauxtoshop 2.10 folder, which will convert the default Gimp layout to the Fauxtoshop one.
 
 7. Access your Gimp's icons folder.
    - Typically found in ```C:\Users\YourUsernameHere\AppData\Local\Programs\Gimp 2.10\GIMP 2\share\gimp\2.0\icons```
