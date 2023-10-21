@@ -64,7 +64,7 @@ and much more...
 
 8. Enjoy :)
 
-Here is a 3 minute [video demonstration](https://www.youtube.com/watch?v=loRPGIziPLg) on how to install it!
+Here is a [3 minute video demonstration](https://www.youtube.com/watch?v=loRPGIziPLg) on how to install it!
 
 
 ## 🎨 Want to go overboard on customization?
