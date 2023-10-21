@@ -45,6 +45,9 @@ and much more...
 
 3. Extract the contents of the archive
 
+4. Open Gimp 2.10.34. Once it is fully opened, close it.
+  - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for things like themes, window placements, etc
+
 4. Access the path to your Gimp 2.10x AppData Roaming folder; e.g. C:\Users\YOURUSERNAME\AppData\Roaming\GIMP\2.10
 
 5. Drag the Fauxtoshop's Gimp 2.10 folder into your Gimp 2.10x AppData Roaming folder.
