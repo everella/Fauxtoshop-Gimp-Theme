@@ -57,7 +57,7 @@ and much more...
 6. Access your Gimp's icons folder.
    - Typically found in ```C:\Users\YourUsernameHere\AppData\Local\Programs\Gimp 2.10\GIMP 2\share\gimp\2.0\icons```
 
-6.1. Drag and drop the ```Adobe Photoshop '23``` folder within the Fauxtoshop folder into your Gimp's icons folder.
+6.1. Within the Fauxtoshop folder, drag and drop the ```Adobe Photoshop '23``` folder into your Gimp's icons folder.
      - This installs the Fauxtoshop icons into Gimp.
 
 7. Open Gimp.
@@ -67,12 +67,23 @@ and much more...
 Here is a 3 minute video demonstration on how to install it!
 
 
+## Want to go overboard on customization?
+
+Install [Resource Hacker](https://angusj.com/resourcehacker/) and modify the Gimp 2.10.exe's details and internal app icon to make it not even mention Gimp at all. (Fauxtoshop .ico file is located in ```C:\Users\YourUsernameHere\AppData\Roaming\GIMP\2.10\z_design_logo```. Tutorial will not be provided here)
+
 # Why Adoughbe Fauxtoshop?
 
 I thought Adoughbe Fauxtoshop was a clever name. 
 
 Adoughbe is named that way because it has ```ugh``` in it, which describes my distaste to Adobe (hence Ado-UGH-be). It also happens to sound like "Adobe", so that's cool.
 
-Fauxtoshop is named that way because it is a very clever name I thought up of. Faux, meaning fake, is pronounced like Foe. When combined, it is Fauxtoshop, essentially meaning fakeshop, whilst also being pronounced the same way you would say "Photoshop."
+Fauxtoshop is named that way because it is a very clever name I thought up of. Faux, meaning fake, is pronounced like Foe. When combined, it is Faux-toshop (foe-toe-shop), essentially meaning fakeshop, whilst also being pronounced the same way you would say "Photoshop."
 
 
+On why I created Fauxtoshop, it was because I wanted to see if I can make Gimp as close as possible to Photoshop in terms of looks and functionality, and it seems as though it definitly is possible to get Gimp to closely mirror Adobe Photoshop.
+
+
+# Credits
+
+- This wouldn't be possible without the star developers, the [GIMP](https://www.gimp.org/team.html) team.
+- The splash screen art is made by [DevynCJohnson](https://www.linux.org/threads/awesome-wallpapers-made-with-gimp.9250/)https://www.linux.org/threads/awesome-wallpapers-made-with-gimp.9250/ (named in the splash screen)
