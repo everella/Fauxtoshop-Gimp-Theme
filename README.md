@@ -51,18 +51,18 @@ and much more...
 5. Access your Gimp's Appdata Roaming folder
    - Typically located in ```C:\Users\YourUsernameHere\AppData\Roaming\GIMP\```
   
-5.1. Drag and drop the Fauxtoshop ```2.10``` folder into your Gimp's AppData Roaming folder, and replace the files in the destination.
+6. Drag and drop the Fauxtoshop ```2.10``` folder into your Gimp's AppData Roaming folder, and replace the files in the destination.
      - The goal here is to replace your original Gimp 2.10 folder with the Fauxtoshop 2.10 folder, which will convert the default Gimp layout to the Fauxtoshop one.
 
-6. Access your Gimp's icons folder.
+7. Access your Gimp's icons folder.
    - Typically found in ```C:\Users\YourUsernameHere\AppData\Local\Programs\Gimp 2.10\GIMP 2\share\gimp\2.0\icons```
 
-6.1. Within the Fauxtoshop folder, drag and drop the ```Adobe Photoshop '23``` folder into your Gimp's icons folder.
+8. Within the Fauxtoshop folder, drag and drop the ```Adobe Photoshop '23``` folder into your Gimp's icons folder.
      - This installs the Fauxtoshop icons into Gimp.
 
-7. Open Gimp.
+9. Open Gimp.
 
-8. Enjoy :)
+10. Enjoy :)
 
 Here is a [3 minute video demonstration](https://www.youtube.com/watch?v=loRPGIziPLg) on how to install it!
 
