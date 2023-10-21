@@ -46,14 +46,33 @@ and much more...
 3. Extract the contents of the archive
 
 4. Open Gimp 2.10.34. Once it is fully opened, close it.
-   - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for things like themes, window placements, and more
+   - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for configuring gimp for themes, window placements, and more
     
-5. Access your Gimp 2.10 folder within AppData Roaming
-   - Typically located in C:\Users\YourUsernameHere\AppData\Roaming\GIMP\2.10
+5. Access your Gimp's Appdata Roaming folder
+   - Typically located in ```C:\Users\YourUsernameHere\AppData\Roaming\GIMP\```
   
-5.1. Drag and drop the ```2.10``` folder in your Gimp's
+5.1. Drag and drop the Fauxtoshop ```2.10``` folder into your Gimp's AppData Roaming folder, and replace the files in the destination.
+     - The goal here is to replace your original Gimp 2.10 folder with the Fauxtoshop 2.10 folder, which will convert the default Gimp layout to the Fauxtoshop one.
+
+6. Access your Gimp's icons folder.
+   - Typically found in ```C:\Users\YourUsernameHere\AppData\Local\Programs\Gimp 2.10\GIMP 2\share\gimp\2.0\icons```
+
+6.1. Drag and drop the ```Adobe Photoshop '23``` folder within the Fauxtoshop folder into your Gimp's icons folder.
+     - This installs the Fauxtoshop icons into Gimp.
+
+7. Open Gimp.
+
+8. Enjoy :)
+
+Here is a 3 minute video demonstration on how to install it!
 
 
-Here is a video demonstration on how to install it!
+# Why Adoughbe Fauxtoshop?
+
+I thought Adoughbe Fauxtoshop was a clever name. 
+
+Adoughbe is named that way because it has ```ugh``` in it, which describes my distaste to Adobe (hence Ado-UGH-be). It also happens to sound like "Adobe", so that's cool.
+
+Fauxtoshop is named that way because it is a very clever name I thought up of. Faux, meaning fake, is pronounced like Foe. When combined, it is Fauxtoshop, essentially meaning fakeshop, whilst also being pronounced the same way you would say "Photoshop."
 
 
