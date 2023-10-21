@@ -46,7 +46,12 @@ and much more...
 3. Extract the contents of the archive
 
 4. Open Gimp 2.10.34. Once it is fully opened, close it.
-   - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for things like themes, window placements, etc
+   - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for things like themes, window placements, and more
+    
+5. Access your Gimp 2.10 folder within AppData Roaming
+   - Typically located in C:\Users\YourUsernameHere\AppData\Roaming\GIMP\2.10
+  
+5.1. Drag and drop the ```2.10``` folder in your Gimp's
 
 
 Here is a video demonstration on how to install it!
