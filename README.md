@@ -25,15 +25,15 @@ Adoughbe Fauxtoshop, a Gimp 2.10x (GNU Image Manipulation Program) skin that mim
 
 Here's what Fauxtoshop looks like:
 
-![Screenshot showing the Fauxtoshop Theme for Gimp 2.10. A picture of a woman looking at a tower while it's sunset is shown in Gimp's canvas.](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/415a6749-3b6e-4e48-807a-51aa5b25712b)
+![demo](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/795222a0-4b10-490c-8ddc-1a06c311c91d)
 
 Adobe themed splash screen:
 
-![Screenshot showing the Fauxtoshop splash screen](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/7fbcc356-5f1c-4f3e-8248-b6c5f08960a3)
+![splash](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/f5c90e29-7213-4d54-9a00-b1fd4b752f15)
 
 Sticky-note like tool-tips
 
-![tooltip](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/914d9cb4-1c38-4219-8987-decf23fcfd67)
+![tooltip](https://github.com/everella/Fauxtoshop-Gimp-Theme/assets/141182131/54524bb5-0777-4b73-83d0-39deb8c86bfa)
 
 and much more...
 
