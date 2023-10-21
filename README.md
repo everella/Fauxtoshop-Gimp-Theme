@@ -83,6 +83,11 @@ Fauxtoshop is named that way because it is a very clever name I thought up of. F
 On why I created Fauxtoshop, it was because I wanted to see if I can make Gimp as close as possible to Photoshop in terms of looks and functionality, and it seems as though it definitly is possible to get Gimp to closely mirror Adobe Photoshop.
 
 
+# To do
+
+- Finish creation of less important icons (e.g. color wheel dock icon)
+
+
 # Credits
 
 - This wouldn't be possible without the star developers, the [GIMP](https://www.gimp.org/team.html) team.
