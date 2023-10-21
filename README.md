@@ -46,32 +46,8 @@ and much more...
 3. Extract the contents of the archive
 
 4. Open Gimp 2.10.34. Once it is fully opened, close it.
-  - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for things like themes, window placements, etc
+   - Tip: Opening Gimp creates your Gimp's AppData Roaming and local folder, which are used for things like themes, window placements, etc
 
-4. Access the path to your Gimp 2.10x AppData Roaming folder; e.g. C:\Users\YOURUSERNAME\AppData\Roaming\GIMP\2.10
-
-5. Drag the Fauxtoshop's Gimp 2.10 folder into your Gimp 2.10x AppData Roaming folder.
-
-6. Open Gimp
-
-7. Hit Edit -> Preferences, scroll down and hit the "Folders" drop down box.
-
-8. Click on "Icon Themes."
-   - There should be two folder paths. The top one should be the Gimp 2.10 Appdata Roaming folder. The Bottom one should be the Appdata Local folder.
-
-9. Click the Appdata Local folder path (the bottom one).
-
-10. Select the file cabinet icon (right most icon), or copy the given path in File Explorer.
-
-11. Double click the "icons" folder, then drag and drop the "Adobe Photoshop '23" folder that was given in the Fauxtoshop.zip file.
-
-12. Head back to Gimp, then in preferences select "Icon Theme" under the "Interface" header.
-
-13. Select the newly added Adobe Photoshop '23 theme.
-
-14. Press Ok.
-
-15. Have fun! :)
 
 Here is a video demonstration on how to install it!
 
