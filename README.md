@@ -37,7 +37,7 @@ Sticky-note like tool-tips
 
 and much more...
 
-# Installing Fauxtoshop (Windows)
+# ⚙️ Installing Fauxtoshop (Windows)
 
 1. Download and install the latest stable release of Gimp [here](https://www.gimp.org/downloads/) (as of writing, 2.10.34)
 
@@ -67,9 +67,9 @@ and much more...
 Here is a 3 minute video demonstration on how to install it!
 
 
-## Want to go overboard on customization?
+## 🎨 Want to go overboard on customization?
 
-Install [Resource Hacker](https://angusj.com/resourcehacker/) and modify the Gimp 2.10.exe's details and internal app icon to make it not even mention Gimp at all. (Fauxtoshop .ico file is located in ```C:\Users\YourUsernameHere\AppData\Roaming\GIMP\2.10\z_design_logo```. Tutorial will not be provided here)
+Install [Resource Hacker](https://angusj.com/resourcehacker/) and modify the Gimp 2.10.exe's details and internal app icon to make it not even mention Gimp at all. (Fauxtoshop .ico and .svg file is located in ```C:\Users\YourUsernameHere\AppData\Roaming\GIMP\2.10\z_design_logo```. Tutorial will not be provided here)
 
 # Why Adoughbe Fauxtoshop?
 
