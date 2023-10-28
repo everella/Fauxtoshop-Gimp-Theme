@@ -92,3 +92,5 @@ On why I created Fauxtoshop, it was because I wanted to see if I can make Gimp a
 
 - This wouldn't be possible without the star developers, the [GIMP](https://www.gimp.org/team.html) team.
 - The splash screen art is made by [DevynCJohnson](https://www.linux.org/threads/awesome-wallpapers-made-with-gimp.9250/) (named in the splash screen)
+- GREYC, the [G'MIC](https://gmic.eu/) team
+- bootchk, Paul Harrison, Rob Antonishen, and others, [resynthesizer](https://github.com/bootchk/resynthesizer) plugin
