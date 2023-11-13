@@ -19,7 +19,7 @@ Adoughbe Fauxtoshop, a Gimp 2.10x (GNU Image Manipulation Program) skin that mim
   
 - Adobe Photoshop themed tool-tips (sticky-note tool-tips)
 
-- Bundled with the Resynthesizer Plugin (akin to content-aware) and G'MIC (advanced image processing)
+- Bundled with the Resynthesizer Plugin (akin to content-aware)
 
 # Demo
 
