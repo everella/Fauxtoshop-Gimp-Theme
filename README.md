@@ -56,6 +56,7 @@ and much more...
 
 7. Access your Gimp's icons folder.
    - Typically found in ```C:\Users\YourUsernameHere\AppData\Local\Programs\Gimp 2.10\GIMP 2\share\gimp\2.0\icons```
+       - The path could also look like this ```C:\Users\YourUsernameHere\AppData\Local\Programs\GIMP 2\share\gimp\2.0\icons```
 
 8. Within the Fauxtoshop folder, drag and drop the ```Adobe Photoshop '23``` folder into your Gimp's icons folder.
      - This installs the Fauxtoshop icons into Gimp.
